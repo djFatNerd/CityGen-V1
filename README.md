@@ -4,7 +4,7 @@
 
 [![](http://img.shields.io/badge/cs.CV-arXiv%3A2311.15209-B31B1B.svg)](https://arxiv.org/abs/2311.15209)
 
-> **See and Think: Embodied Agent in Virtual Environment**  
+> **Infinite and Controllable 3D City Layout Generation**  
 > Zhonghan Zhao<sup>♠️</sup>, Wenhao Chai<sup>♠️♥️</sup>, Xuan Wang<sup>♠️</sup>, Li Boyi, Shengyu Hao, Shidong Cao, Tian Ye, Jenq-Neng Hwang, Gaoang Wang✉️   
 > _arXiv 2023._  
 > <sup>♠️</sup> Equal contribution. <sup>♥️</sup> Project lead.
