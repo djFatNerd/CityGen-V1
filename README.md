@@ -1,6 +1,6 @@
 <img src="asset/logo.png" height="120px" align="right">
 
-# <ins>S</ins>ee and <ins>T</ins>hink: <ins>E</ins>mbodied Agent in <ins>V</ins>irtual <ins>E</ins>nvironment
+# CityGen: Infinite and Controllable 3D City Layout Generation
 
 [![](http://img.shields.io/badge/cs.CV-arXiv%3A2311.15209-B31B1B.svg)](https://arxiv.org/abs/2311.15209)
 
